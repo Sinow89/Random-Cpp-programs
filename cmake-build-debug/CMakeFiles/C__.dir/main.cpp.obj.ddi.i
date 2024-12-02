@@ -42481,9 +42481,10 @@ int main(){
     std:: cout << "Height : ", std::cin >> height;
 
     const float base = length * width;
+    const float volume = base * height;
 
     std::cout << "The base area is : " << base << std::endl;
-    std::cout << "The volume is : " << (base*height) << std::endl;
+    std::cout << "The volume is : " << volume << std::endl;
 
     return 0;
 }

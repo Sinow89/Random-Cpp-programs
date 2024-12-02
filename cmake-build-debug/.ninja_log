@@ -43,3 +43,9 @@
 155	179	7548329191649446	CMakeFiles/C__.dir/main.cpp.obj.modmap	362de2ba0d5ab192
 180	639	7548329191899515	CMakeFiles/C__.dir/main.cpp.obj	6eeaf72e0e5fe328
 639	730	7548329196490526	C__.exe	2c2f0d0b9ae5cfa2
+5	138	7548330045698527	CMakeFiles/C__.dir/main.cpp.obj.ddi	358186d30d5c686b
+138	161	7548330047028828	CMakeFiles/C__.dir/CXX.dd	362de2ba0d5ab192
+138	161	7548330047028828	C:/Github/C++/cmake-build-debug/CMakeFiles/C__.dir/CXXModules.json	362de2ba0d5ab192
+138	161	7548330047028828	CMakeFiles/C__.dir/main.cpp.obj.modmap	362de2ba0d5ab192
+162	654	7548330047268885	CMakeFiles/C__.dir/main.cpp.obj	6eeaf72e0e5fe328
+655	762	7548330052193432	C__.exe	2c2f0d0b9ae5cfa2
