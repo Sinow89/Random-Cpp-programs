@@ -7,9 +7,9 @@ int main(){
     float height;
 
     std::cout   <<  "Welcome to the box calculator. Please type in length, width and height information." << std::endl;
-    std:: cout  <<  "Length : ",  std::cin >> length;
-    std:: cout  <<  "Width : ",   std::cin >> width;
-    std:: cout  <<  "Height : ",  std::cin >> height;
+    std::cout  <<  "Length : ",  std::cin >> length;
+    std::cout  <<  "Width : ",   std::cin >> width;
+    std::cout  <<  "Height : ",  std::cin >> height;
 
     const float base = length * width;
     const float volume = base * height;
